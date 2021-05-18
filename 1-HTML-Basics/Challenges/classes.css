@@ -1,12 +1,14 @@
 /* rule-set #1: Everything within the body tag will have a blue background. */
 body {
-    background-color: blue;
-    
+    background-color: violet;
+    border-style: groove;
+    border-width: 30px;
 }
 
 /*rule set 2: Everything withnin a css-classes class will have a lightgray background. */
 .css-classes {
-    background-color: lightgray;
+    background-color: rgb(77, 206, 206);
+    border-bottom: rgb(68, 108, 228);
 }
 
 /* rule set 3: All h1 tags within the css-classes class will have a font size of 18 pixels.*/
@@ -23,4 +25,5 @@ body {
 /* ruleset 5: All the li items within the css-classes class will have a blue font. */
 .css-classes li{
     color: navy;
+    list-style: georgian;
 }
