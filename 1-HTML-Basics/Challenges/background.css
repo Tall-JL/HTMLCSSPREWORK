@@ -8,18 +8,20 @@ h1{
 }
 /*this sets the background color of the entire body*/
 body{
-    background-color: lightgray;
+    background-color: transparent red;
+    background-color: teal;
 }
 
 /* 4 */
 .background1{
-    background-color: lightblue;
+    background-blend-mode: color-burn;
+    background-color: brown;
 }
 
 /* 5*/
 
 .background2{
-    background-image:url("../assets/upfeathers.png");
+    background-image:url("../../assets/hey.jpg");
 }
 
 /* 7 */
