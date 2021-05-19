@@ -5,20 +5,24 @@
 
 /* rule set 1 */
 #number-one{
-    color: red;
+    color: hotpink;
+    border-style: ridge;
 }
 
 /* rule set 2 */
 #number-two{
-    font-size: 16px;
+    font-size: 32px;
+    background-color: indianred;
 }
 
 /* rule set 3 */
 .first-class{
     color: green;
+    font-style: italic;
 }
 
 /* rule set 4 */
 .second-class{
-    font-size: 24px;
+    font-size: 8px;
+    background-color: lavenderblush;
 }
